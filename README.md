@@ -12,6 +12,6 @@
 >* Next
 
 ### production 
->* netlify
+>* Netlify
 
 ## Just do it
