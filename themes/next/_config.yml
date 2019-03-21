@@ -348,7 +348,7 @@ han: false
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: your-disqus-shortname
+# duoshuo_shortname: your-disqus-shortname
 
 # Disqus
 disqus:
@@ -385,7 +385,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC80MzMxNy8xOTg1OA
+# livere_uid: MTAyMC80MzMxNy8xOTg1OA
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
