@@ -5,10 +5,8 @@ tags:
 - Markdown
 categories: 
 - 档案馆
-photos:
-    - "https://faithlove.github.io/pic/2018/HexoThumb/topPicPre.png"
 ---
-
+<img src="https://deerway.oss-cn-beijing.aliyuncs.com/hexoBlog/LrbfNhtq-TM.jpg" class="full-image" />
 # 标题
 使用#，可表示1-6级标题。
 > #一级标题
