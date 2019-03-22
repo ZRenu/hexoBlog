@@ -17,7 +17,7 @@ date: 2019-03-21 15:14:41
 
 喜欢恐怖悬疑类的小说、
 
-喜欢在游泳池里如鱼的水的感觉
+喜欢在游泳池里如鱼得水的感觉
 
 <font style="font-size:1.5vw;color:#000">**用我一生，换你十年天真无邪**</font>
 
@@ -26,8 +26,6 @@ date: 2019-03-21 15:14:41
 喜欢逛B站,exm???
 </blockquote>
 
-
-
-<img src="http://deerway.oss-cn-beijing.aliyuncs.com/hexoBlog/LrbfNhtq-TM.jpg" class="full-image" />
+<img src="https://deerway.oss-cn-beijing.aliyuncs.com/hexoBlog/LrbfNhtq-TM.jpg">
 
 
