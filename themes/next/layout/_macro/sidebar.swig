@@ -25,7 +25,6 @@
           </li>
         </ul>
       {% endif %}
-
       <section class="site-overview-wrap sidebar-panel{% if not display_toc or toc(page.content).length <= 1 %} sidebar-panel-active{% endif %}">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -43,7 +42,6 @@
             #}{% endif %}{#
             #}</p>
           </div>
-
           <nav class="site-state motion-element">
 
             {% if config.archive_dir != '/' and site.posts.length > 0 %}
@@ -159,6 +157,7 @@
           </div>
         </section>
       <!--/noindex-->
+      
       {% endif %}
 
       {% if theme.sidebar.b2t %}
