@@ -27,6 +27,6 @@ date: 2019-03-21 15:14:41
 </blockquote>
 
 
-<img src="https://deerway.oss-cn-beijing.aliyuncs.com/hexoBlog/LrbfNhtq-TM.jpg">
+<img src="https://wx2.sinaimg.cn/mw1024/8954143dgy1g1borydaxuj21900u0tzr.jpg">
 
 _如果我们说另一种不同的语言，那么我们就会发觉一个有些不同的世界（Luduing Wittgerstein)_
