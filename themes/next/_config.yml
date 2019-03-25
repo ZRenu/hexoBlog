@@ -140,12 +140,24 @@ social_icons:
   transition: false
 
 # Blog rolls
-links_icon: link
-links_title: 推荐阅读
+# links_icon: link
+# links_title: Live Demo
 # links_layout: block
-links_layout: inline
-# links:
-# Title: ttp://example.com/
+# # links_layout: inline
+# links: https://zhourenyou.github.io/web-deerway/passport/login
+# Title: 路途
+
+links_title: Live #标题
+links_layout: block #布局，一行一个连接
+#links_layout: inline
+links: #连接
+  颜色转换(在校期): https://zhourenyou.github.io/color-conversion/
+  个人网站(在校期): https://zhourenyou.github.io/Hi-18/
+  网文鱼眼(门户网站-上线): https://www.yiyudata.com
+  鹿途后台管理系统: https://zhourenyou.github.io/web-deerway/passport/login
+  园区数据可视化系统: https://zhourenyou.github.io/vue-echats-bmap-web/#/energy
+  
+
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -244,7 +256,7 @@ post_wordcount:
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -369,7 +381,7 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: true
+  enable: false
   appid: SykPO8Ltr2EN87HYqwdXfNPL-gzGzoHsz
   appkey: t1pY9zW5FFU2Tb2li3K1aaXy
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
@@ -539,7 +551,7 @@ firestore:
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
-  enable: true 
+  enable: false
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: <i class="fa">访客数</i>
@@ -560,7 +572,7 @@ busuanzi_count:
 # tencent_mta:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
@@ -592,7 +604,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
