@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 周仁友
+title: 周仁友 | Blog
 subtitle: Just do it
 description: 前端开发/喜欢听着雨声安然入眠、
-keywords:
+keywords: "前端博客,微信小程序,百度地图,JavaScript,html5,css3,NodeJs,Angular,echarts,Vue,Hexo"
 author: 周仁友
 language: zh-Hans
 timezone:
