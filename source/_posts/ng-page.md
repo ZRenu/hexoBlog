@@ -9,7 +9,7 @@ categories: Angular
 keywords:
 - Angular
 - github pages
-- angular-cli-gh pages
+- angular-cli-ghpages
 ---
 <img src="https://wx4.sinaimg.cn/mw690/8954143dgy1g1f66tkqk6j21900u0nps.jpg" class="full-image" />
 GitHub有一个很实用的功能就是GitHub Pages，他相当于为Github项目建立了一个可视化的web页面。angular-cli-ghpages的功能就与这个类似
