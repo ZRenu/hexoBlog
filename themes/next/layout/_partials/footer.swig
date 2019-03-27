@@ -5,12 +5,12 @@
   <span class="with-love">
     <i class="fa fa-heart"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">希孟</span>
+  <span class="author" itemprop="copyrightHolder">周仁友</span>
 
   {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
     <span title="{{ __('post.totalcount') }}">{#
-    #}本站总共 {{ totalcount(site, '0,0.0a') }} 个字{#
+    #}本站共 {{ totalcount(site, '0,0.0a') }} 个字{#
   #}</span>
   {% endif %}
 </div>

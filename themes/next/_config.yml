@@ -96,7 +96,7 @@ menu:
   tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
-  #schedule: /schedule/ || calendar
+  # schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
 # Enable/Disable menu icons.
 menu_icons:
@@ -455,7 +455,7 @@ needmoreshare2:
       position: bottomCenter
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
   float:
-    enable: true
+    enable: false
     options:
       iconStyle: box
       boxForm: horizontal
