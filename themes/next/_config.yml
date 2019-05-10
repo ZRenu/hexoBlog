@@ -123,7 +123,7 @@ scheme: Pisces
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/ZhouRenYou || github
-  Instagram: https://www.instagram.com/ximeng_zhou/ || instagram
+  Instagram: https://www.instagram.com/zhourenu/ || instagram
   E-Mail: mailto:zry2510@163.com || envelope
   # Google: https://plus.google.com/yourname || google
   # Twitter: https://twitter.com/yourname || twitter
