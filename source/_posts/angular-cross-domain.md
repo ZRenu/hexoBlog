@@ -6,7 +6,6 @@ tags:
 - Angular
 categories: Angular
 ---
-<img src="https://wx1.sinaimg.cn/mw690/8954143dgy1g1f63fl34gj21900u0qvh.jpg" class="full-image" />
 # 前端跨域处理
 
 1、根目录下新增proxy.config.json
