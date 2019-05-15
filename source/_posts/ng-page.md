@@ -12,7 +12,6 @@ keywords:
 - angular-cli-ghpages
 ---
 GitHub有一个很实用的功能就是GitHub Pages，他相当于为Github项目建立了一个可视化的web页面。angular-cli-ghpages的功能就与这个类似
-<!-- more -->
 > 1.首先新建一个Github空项目，比如ng-deerway
 
 然后使用angular-cli工具生成一个新项目
