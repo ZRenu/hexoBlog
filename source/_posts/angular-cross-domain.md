@@ -6,7 +6,9 @@ tags:
 - Angular
 categories: Angular
 ---
-# 前端跨域处理
+# 跨域代理
+
+## 前端
 
 1、根目录下新增proxy.config.json
 
@@ -49,7 +51,7 @@ login(params: { userCode: any; password: any; }): Observable<any> {
 ```ts
 ng serve --proxy-config proxy.config.json
 ```
-# Nginx跨域代理（前后端部署在不同的服务器）
+## Nginx（前后端部署在不同的服务器）
 
 #### nginx.conf server节点下新增
 
@@ -59,3 +61,7 @@ ng serve --proxy-config proxy.config.json
         }
 
 ```
+
+# 参考
+
+## [Proxy To Backend](https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md)
