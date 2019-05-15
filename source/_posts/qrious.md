@@ -26,6 +26,7 @@ npm i --save qrious
       value: this.value
     });
 ```
+<!--more-->
 # 注意
 
 默认 QRModule 并没有强制依赖 qrious，因此还需要额外在 angular.json 的 scripts 节点引用它。
