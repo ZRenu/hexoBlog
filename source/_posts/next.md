@@ -7,7 +7,6 @@ categories:
 - 档案馆
 keywords: Markdown
 ---
-<img src="https://wx4.sinaimg.cn/mw1024/8954143dgy1g1borz1agvj21900u0qv6.jpg" class="full-image" />
 # 标题
 使用#，可表示1-6级标题。
 > #一级标题

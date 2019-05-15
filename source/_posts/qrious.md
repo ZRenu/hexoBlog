@@ -7,7 +7,6 @@ tags:
 - 二维码
 categories: 插件
 ---
-<img src="https://wx4.sinaimg.cn/mw690/8954143dgy1g1f67hvkgmj21400u0e85.jpg" class="full-image" />
 
 # 基于[qrious](https://github.com/neocotic/qrious#api)生成二维码。
 
