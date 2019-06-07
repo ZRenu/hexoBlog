@@ -152,8 +152,7 @@ links_title: Live #标题
 links_layout: block #布局，一行一个连接
 #links_layout: inline
 links: #连接
-  颜色转换(在校期): https://zhourenyou.github.io/color-conversion/
-  个人网站(在校期): https://zhourenyou.github.io/Hi-18/
+  刚毕业的简历: https://zhourenyou.github.io/Hi-18/
   网文鱼眼(门户网站-上线): https://www.yiyudata.com
   智慧牧场: https://meadow.netlify.com
   鹿途后台管理系统: https://zhourenyou.github.io/web-deerway/passport/login
