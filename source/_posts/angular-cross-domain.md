@@ -10,11 +10,14 @@ categories: Angular
 
 ## 前端
 
-1、根目录下新增proxy.config.json
+### JSON
+
+1、根目录下新增proxy.config.json/proxy.config.js
 
 ```ts
+// json 
 {
-  "/apidata": {
+  "/api": {
     "target": "service address",
     "secure": false,
     "logLevel": "debug",
@@ -25,16 +28,31 @@ categories: Angular
 
   }
 }
+
+```
+```js
+// js
+const PROXY_CONFIG = [{
+  context: [
+    "/api"
+  ],
+  target: "http://xxxx:8764/", //测试环境
+  target: "http://xx:8764",  //测试环境
+  secure: false
+}]
+
+module.exports = PROXY_CONFIG;
+
 ```
 
-2、angular.json配置文件加载配置代理文件proxyconfig.json
+2、angular.json配置文件加载配置代理文件proxyconfig.json/proxy.config.js
 
 ```ts
 "serve": {
   "builder": "@angular-devkit/build-angular:dev-server",
   "options": {
     "browserTarget": "project1:build",
-      "proxyConfig": "proxy.config.json"
+      "proxyConfig": "proxy.config.json"/"proxyConfig": "proxy.config.js"
   }
 ```
 <!--more-->
@@ -42,7 +60,7 @@ categories: Angular
 
 ```ts
 login(params: { userCode: any; password: any; }): Observable<any> {
-    return this.http.post('apidata/account/login', params);
+    return this.http.post('api/account/login', params);
   }
 ```
 
