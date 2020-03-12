@@ -122,7 +122,7 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/ZhouRenYou || github
+  GitHub: https://github.com/ZRenu || github
   博客园: http://www.cnblogs.com/zry2510/ || heartbeat
   Instagram: https://www.instagram.com/zhourenu/ || instagram
   E-Mail: mailto:zry2510@163.com || envelope
@@ -152,11 +152,11 @@ links_title: Live #标题
 links_layout: block #布局，一行一个连接
 #links_layout: inline
 links: #连接
-  刚毕业的简历: https://zhourenyou.github.io/Hi-18/
+  # 刚毕业的简历: https://zhourenyou.github.io/Hi-18/
   网文鱼眼(门户网站-上线): https://www.yiyudata.com
   智慧牧场: https://meadow.netlify.com
-  鹿途后台管理系统: https://zhourenyou.github.io/web-deerway/passport/login
-  园区数据可视化系统: https://zhourenyou.github.io/vue-echats-bmap-web/#/energy
+  # 鹿途后台管理系统: https://zhourenyou.github.io/web-deerway/passport/login
+  # 园区数据可视化系统: https://zhourenyou.github.io/vue-echats-bmap-web/#/energy
   
 
 
